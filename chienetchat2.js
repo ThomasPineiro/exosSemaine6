@@ -1,4 +1,4 @@
-function chienetchat(yearCat, yearDog)
+function chienetchat2(yearCat, yearDog)
 {
 ownedDog = 0;
 ownedCat = 0;
@@ -32,4 +32,4 @@ ownedCat = 0;
 var array = [ownedCat, ownedDog];
 console.log("Chien et chat 2 :" +array);
 }
-chienetchat(644,157);
+chienetchat2(644,157);
